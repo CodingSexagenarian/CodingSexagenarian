@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CodingSexagenarian
-- 👀 I’m interested in learning Python for brain health.
+- 👀 I’m interested in learning Python for my brain health.
 - 🌱 I’m currently learning the “Build Python Web Apps with Django” skillpath on Codecademy.
 - 💞️ I’m looking to collaborate on  on the Codecademy Python skillpath.
 - 📫 How to reach me codingsexagenarian@gmail.com
